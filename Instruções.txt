@@ -8,3 +8,5 @@ Nesta página do site, temos algumas intruções:
 - Banner principal rotativo; |OK
 - Uma animação no botão "Veja nossa equipe";|OK
 	- As fotos da equipe inicialmente estarão ocultas e apenas vão aparecer quando o usuário clicar no botão "Veja nossa equipe".
+
+	
